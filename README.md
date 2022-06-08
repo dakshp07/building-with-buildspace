@@ -18,7 +18,7 @@ npm install --save-dev hardhat
 Choose the option to create a sample project. Say yes to everything.
 
 Cool, now we should have Hardhat. Let's get a sample project going. Run:
-``shell
+```shell
 npx hardhat
 ```
 
