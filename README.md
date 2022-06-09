@@ -66,4 +66,4 @@ Check the first terminal where we created the local blockchain
 <img src="https://i.imgur.com/zyyLsNH.png">
 
 # What's Next?
-We will be using ReactJs to deploy it for the users to use
+We will be using ReactJs to deploy it for the users to use. The ReactJs repo can be accessed from [here](https://github.com/dakshp07/react-wave-portal)
